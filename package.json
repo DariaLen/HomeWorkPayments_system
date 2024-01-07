@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/DariaLen/REACT_HomeWork"
+  "homepage": "https://github.com/DariaLen/HomeWorkPayments_system",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
